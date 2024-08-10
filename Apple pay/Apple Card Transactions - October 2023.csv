@@ -1,0 +1,5 @@
+Transaction Date,Clearing Date,Description,Merchant,Category,Type,Amount (USD),Purchased By
+10/27/2023,10/28/2023,"DUNKIN #346310 7317 PARKWOOD BOULEVARD PLANO 75024 TX USA","Dunkin'","Restaurants","Purchase","2.69","Sandeep Rani Pradeep Kumar"
+10/22/2023,10/24/2023,"STARBUCKS STORE 6411 5760 LEGACY DR STE B6 PLANO 75024 TX USA","Starbucks","Restaurants","Purchase","2.87","Sandeep Rani Pradeep Kumar"
+10/23/2023,10/23/2023,"KRISPY KREME #385 8815 PRESTON ROAD FRISCO 75033 TX USA","Krispy Kreme","Restaurants","Purchase","5.79","Sandeep Rani Pradeep Kumar"
+10/22/2023,10/23/2023,"APPLE.COM/US ONE APPLE PARK WAY 800-676-2775 95014 CA USA","Apple Store","Other","Purchase","897.39","Sandeep Rani Pradeep Kumar"
